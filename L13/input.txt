@@ -1,0 +1,2 @@
+Say the client wants a factory to produce a chair.
+The client doesn’t have to be aware of the factory’s class, nor does it matter what kind of chair it gets.
